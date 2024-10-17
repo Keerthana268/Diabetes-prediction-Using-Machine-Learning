@@ -1,6 +1,6 @@
 # DIABETES ONSET PREDICTION: AN APPLICATION OF SUPERVISED LEARNING MODELS
 
-![Uploading image.png…]()
+![Alt Text](https://cells4life.com/wp-content/uploads/2024/06/diabetes_-scaled.jpg)
 
 ## Introduction
 Diabetes is a group of metabolic disorders characterized by high blood sugar levels over a prolonged period. Symptoms of diabetes can include frequent urination, increased thirst, and increased hunger. If left untreated, diabetes can lead to serious complications such as cardiovascular disease, stroke, chronic kidney disease, foot ulcers, and damage to the eyes. 
