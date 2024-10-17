@@ -48,7 +48,7 @@ Appropriate techniques, such as boxplots, were utilized to visualize and address
 Feature engineering is crucial for enhancing model performance. In this dataset, new variables were created based on **BMI**, **Insulin**, and **Glucose** to capture additional relationships and patterns. 
 
 ### Categorical Variable Encoding
-To convert categorical variables into numerical values, both Label Encoding and One Hot Encoding methods were applied. This step is essential for enabling the machine learning algorithms to interpret the data correctly.
+To convert categorical variables into numerical values, One Hot Encoding methods were applied. This step is essential for enabling the machine learning algorithms to interpret the data correctly.
 
 ## Model Building
 The cleaned and preprocessed dataset was used to train various machine learning algorithms, including:
